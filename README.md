@@ -1,5 +1,5 @@
 # FFT
-Implementation of Fast Fourier Transform over data imported from Excel
+Description : Implementation of Fast Fourier Transform over data imported from Excel using MATLAB.
 
 FFT algo: 
 You transform your data to s-domain by DFT and
