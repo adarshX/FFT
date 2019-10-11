@@ -2,7 +2,7 @@
 Description : Implementation of Fast Fourier Transform over data imported from Excel using MATLAB.
 
 FFT algo: 
-You transform your data to s-domain by DFT and
+You transform your data to s-domain by DFT. and
 Your time vector to a frequency vector by using sampling frequency.
 
 X : time domain data
