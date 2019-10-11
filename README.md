@@ -9,3 +9,5 @@ Y = fft(X)
 
 This Y  vector consists of the average values of X (DFT).
 Y is not equal to the values of X.
+
+![alt text](https://github.com/adarshX/FFT/edit/master/path/to/DFT.png)
