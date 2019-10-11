@@ -2,7 +2,8 @@
 Implementation of Fast Fourier Transform over data imported from Excel
 
 FFT algo: 
-You transform your data to s-domain by DFT and your time vector to a frequency vector by using sampling frequency.
+You transform your data to s-domain by DFT and
+Your time vector to a frequency vector by using sampling frequency.
 
 X : time domain data
 Y = fft(X) 
