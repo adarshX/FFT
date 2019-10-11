@@ -13,4 +13,4 @@ Y is not equal to the values of X.
 
 ![alt text](https://github.com/adarshX/FFT/blob/master/DFT.png)
 
-[https://www.youtube.com/watch?v=z7X6jgFnB6Y]
+https://www.youtube.com/watch?v=z7X6jgFnB6Y
